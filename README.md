@@ -1,7 +1,8 @@
-# Circuit
+# STM32 HCSR04
+## Circuit
 ![deneme](circuit.png)
 
-# Code
+## Code
 ```c++
 /* USER CODE BEGIN Header */
 /**
